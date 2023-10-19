@@ -1,0 +1,33 @@
+[submodule "buffer/axis_fifo"]
+	path = buffer/axis_fifo
+	url = https://github.com/johnathan-convertino-afrl/axis_fifo.git
+[submodule "buffer/axis_tiny_fifo"]
+	path = buffer/axis_tiny_fifo
+	url = https://github.com/johnathan-convertino-afrl/axis_tiny_fifo.git
+[submodule "buffer/fifo"]
+	path = buffer/fifo
+	url = https://github.com/johnathan-convertino-afrl/fifo.git
+[submodule "converter/axis_data_to_axis_string"]
+	path = converter/axis_data_to_axis_string
+	url = https://github.com/johnathan-convertino-afrl/axis_data_to_axis_string.git
+[submodule "converter/axis_string_to_axis_data"]
+	path = converter/axis_string_to_axis_data
+	url = https://github.com/johnathan-convertino-afrl/axis_string_to_axis_data.git
+[submodule "converter/axis_data_width_converter"]
+	path = converter/axis_data_width_converter
+	url = https://github.com/johnathan-convertino-afrl/axis_data_width_converter.git
+[submodule "device/axis_1553_decoder"]
+	path = device/axis_1553_decoder
+	url = https://github.com/johnathan-convertino-afrl/axis_1553_decoder.git
+[submodule "device/axis_1553_encoder"]
+	path = device/axis_1553_encoder
+	url = https://github.com/johnathan-convertino-afrl/axis_1553_encoder.git
+[submodule "device/axis_uart"]
+	path = device/axis_uart
+	url = https://github.com/johnathan-convertino-afrl/axis_uart.git
+[submodule "device/ft245_sync_to_axis"]
+	path = device/ft245_sync_to_axis
+	url = https://github.com/johnathan-convertino-afrl/ft245_sync_to_axis.git
+[submodule "math/axis_moving_average"]
+	path = math/axis_moving_average
+	url = https://github.com/johnathan-convertino-afrl/axis_moving_average.git
