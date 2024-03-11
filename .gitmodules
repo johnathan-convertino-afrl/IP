@@ -31,3 +31,18 @@
 [submodule "math/axis_moving_average"]
 	path = math/axis_moving_average
 	url = https://github.com/johnathan-convertino-afrl/axis_moving_average.git
+[submodule "device/bus_uart"]
+	path = device/bus_uart
+	url = https://github.com/johnathan-convertino-afrl/bus_uart.git
+[submodule "ram/dc_block_ram"]
+	path = ram/dc_block_ram
+	url = https://github.com/johnathan-convertino-afrl/dc_block_ram.git
+[submodule "ram/bus_block_ram"]
+	path = ram/bus_block_ram
+	url = https://github.com/johnathan-convertino-afrl/bus_block_ram.git
+[submodule "bus/up_wishbone_classic"]
+	path = bus/up_wishbone_classic
+	url = https://github.com/johnathan-convertino-afrl/up_wishbone_classic.git
+[submodule "bus/up_wishbone_pipeline"]
+	path = bus/up_wishbone_pipeline
+	url = https://github.com/johnathan-convertino-afrl/up_wishbone_pipeline.git
