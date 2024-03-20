@@ -46,3 +46,9 @@
 [submodule "bus/up_wishbone_pipeline"]
 	path = bus/up_wishbone_pipeline
 	url = https://github.com/johnathan-convertino-afrl/up_wishbone_pipeline.git
+[submodule "bus/up_apb3"]
+	path = bus/up_apb3
+	url = https://github.com/johnathan-convertino-afrl/up_apb3.git
+[submodule "device/sd-card-controller"]
+	path = device/sd-card-controller
+	url = https://github.com/johnathan-convertino-afrl/SD-card-controller.git
