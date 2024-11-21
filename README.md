@@ -1,5 +1,8 @@
 # IP CORE REPO
-### Contains all IP cores available on github
+### Contains a collection IP cores created by Jay Convertino.
+
+![image](docs/manual/img/AFRL.png)
+
 ---
 
    author: Jay Convertino
