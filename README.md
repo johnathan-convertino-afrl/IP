@@ -31,6 +31,10 @@
     - axis_fifo
     - axis_tiny_fifo
     - fifo
+  - bus = Contains interface cores for various buses.
+    - up_apb3
+    - up_wishbone_classic
+    - up_wishbone_pipeline
   - converter = Data conversion from one format to another.
     - axis_data_to_axis_string
     - axis_string_to_axis_data
@@ -39,6 +43,12 @@
     - axis_1553_decoder
     - axis_1553_encoder
     - axis_uart
+    - bus_gpio
+    - bus_1553
+    - bus_uart
     - ft245_sync_to_axis
   - math = Core that alter input data to produce a new set of output data.
     - axis_moving_average
+  - ram = Various RAM cores for internal and external.
+    - bus_block_ram
+    - dc_block_ram

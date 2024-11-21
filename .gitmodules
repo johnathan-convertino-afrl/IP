@@ -52,3 +52,9 @@
 [submodule "device/sd-card-controller"]
 	path = device/sd-card-controller
 	url = https://github.com/johnathan-convertino-afrl/SD-card-controller.git
+[submodule "device/bus_1553"]
+	path = device/bus_1553
+	url = https://github.com/johnathan-convertino-afrl/bus_1553.git
+[submodule "device/bus_gpio"]
+	path = device/bus_gpio
+	url = https://github.com/johnathan-convertino-afrl/bus_gpio.git
