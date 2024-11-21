@@ -1,7 +1,7 @@
 # IP CORE REPO
 ### Contains a collection IP cores created by Jay Convertino.
 
-![image](docs/manual/img/AFRL.png)
+![image](img/AFRL.png)
 
 ---
 
